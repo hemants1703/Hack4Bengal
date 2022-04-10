@@ -6,3 +6,5 @@ Well its the subtle art of encrypting the passwords that makes it from 'readable
 ## XOR Cipher
 
 This cipher technique applies the XOR operation on the input value and the output we get is treated as an encrypted form of the input since its completely different from the original value.
+
+### In order to test the code, just run the Main.java file and make sure that **PasswordManager.java** is placed in the **same directory as of Main.java**.
