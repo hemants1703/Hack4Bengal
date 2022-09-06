@@ -4,8 +4,10 @@ Do you ever wonder, how the passwords that you set to any website or app is kept
 
 Well its the subtle art of encrypting the passwords that makes it from 'readable & understandable' to just 'readable' and not understandable by human eye.
 
+>Check out the video demonstration of the [Password Encryptor](https://youtu.be/cH7YrNXYwts).
+
 ## XOR Cipher
 
 This cipher technique applies the XOR operation on the input value and the output we get is treated as an encrypted form of the input since its completely different from the original value.
 
-### In order to test the code, just run the Main.java file and make sure that **PasswordManager.java** is placed in the **same directory as of Main.java**.
+> In order to test the code, just run the **Main.java** file and make sure that **PasswordManager.java** is placed in the **same directory as of Main.java**.
